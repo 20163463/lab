@@ -1,5 +1,6 @@
+--Compiled by Aidas Maciulevičius EF16/2
+
 -- File: xor.vhd
--- Compiled by: Edgar Kalinovski ETf-16“.
 library ieee;
 use ieee.std_logic_1164.all;
 
